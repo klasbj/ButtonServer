@@ -1,0 +1,6 @@
+Thumbs.db
+*.suo
+*.sdf
+*/[Bb]in/*
+*/[Dd]ebug/*
+*/obj/*

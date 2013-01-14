@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonServer", "ButtonServer\ButtonServer.csproj", "{E4E3D59E-DE81-48EB-BEF2-CB5FEDA1DF05}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9C5C7AD1-8571-4082-8E08-22995FF39BB7}"
+	ProjectSection(SolutionItems) = preProject
+		COPYING.txt = COPYING.txt
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Mixed Platforms = Debug|Mixed Platforms
